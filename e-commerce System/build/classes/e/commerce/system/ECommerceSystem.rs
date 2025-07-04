@@ -1,0 +1,12 @@
+e.commerce.system.Product
+e.commerce.system.Shippable
+e.commerce.system.CheckoutService
+e.commerce.system.PerishableProduct
+e.commerce.system.ShippableProduct
+e.commerce.system.CartItem
+e.commerce.system.Cart
+e.commerce.system.ShippingService
+e.commerce.system.PerishableShippableProduct
+e.commerce.system.ECommerceSystem$1
+e.commerce.system.ECommerceSystem
+e.commerce.system.Customer
